@@ -1,0 +1,62 @@
+h1 {
+	font-family: Rage;
+	font-variant: small-caps;
+	text-align: center;
+	color: royalblue;
+	font-weight: ;
+	background-image: url(gambar4.png);
+	font-size: 40px;
+}
+
+p {
+	font-family: Bradley Hand ITC;
+	text-align: left;
+	font-weight: bold;
+	text-indent: 20px;
+	color: #000000;
+}
+
+a { text-decoration: none;
+	color: red;
+ }
+
+.p1, .p2, .p3, .p4, .p5, .p6 {
+	font-variant: small-caps;
+	color: red;
+	font-weight: normal;
+}
+
+ol {
+	font-family: Bradley Hand ITC;
+	color: red;
+	font-weight: bold;
+}
+
+u { color: green; }
+
+ol li{ color: blue;
+	   font-family: Bradley Hand ITC;
+	   font-weight: bold;
+ }
+
+body {
+	background-image: url(gambar1.png)
+}
+
+.like:link {
+	color: red;
+}
+
+.like:hover {
+	color: blue;
+	font-family: georgia;
+	font-size: 20spx;
+}
+
+.like:active {
+	font-style: italic;
+}
+
+.like:visited {
+	color: green;
+}
